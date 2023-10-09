@@ -1,0 +1,18 @@
+<universidad>
+    <nombre>Universidad de Sonora</nombre>
+    <estudiantes>
+        <estudiante>
+            <nombre>Juan Pérez</nombre>
+            <matricula>12345</matricula>
+            <carrera>Ingeniería Informática</carrera>
+            <fecha_de_ingreso>2021-09-01</fecha_de_ingreso>
+        </estudiante>
+        <estudiante>
+            <nombre>Maria González</nombre>
+            <matricula>67890</matricula>
+            <carrera>Psicología</carrera>
+            <fecha_de_ingreso>2020-08-15</fecha_de_ingreso>
+        </estudiante>
+
+    </estudiantes>
+</universidad>

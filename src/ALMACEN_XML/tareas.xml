@@ -1,0 +1,14 @@
+<tareas>
+    <tarea>
+        <titulo>Comprar comestibles</titulo>
+        <prioridad>Alta</prioridad>
+    </tarea>
+    <tarea>
+        <titulo>Hacer ejercicio</titulo>
+        <prioridad>Media</prioridad>
+    </tarea>
+    <tarea>
+        <titulo>Leer un libro</titulo>
+        <prioridad>Baja</prioridad>
+    </tarea>
+</tareas>
